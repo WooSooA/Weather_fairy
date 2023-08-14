@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "187296690842",
+    "project_id": "weather-fairy-c552e",
+    "storage_bucket": "weather-fairy-c552e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187296690842:android:d18995ee6126018650a523",
+        "android_client_info": {
+          "package_name": "com.example.weather_fairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187296690842-4q3hnlpt6vps0u999hrsutcjq6um62r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkrdRw_o6vIbgu0_LYlkzwWX9qeKLYy8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187296690842-4q3hnlpt6vps0u999hrsutcjq6um62r8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "187296690842-d4qi4ltno3atfcqsac0poh2ii0a16f9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.weatherFairy"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
