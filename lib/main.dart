@@ -12,6 +12,11 @@ void main() async {
   runApp(const MyApp());
 }
 
+Future initalizeApp(BuildContext? context) async {
+ await Future.delayed(Duration(seconds : 1));
+}
+
+
 class MyApp extends StatefulWidget {
   const MyApp({Key? key}) : super(key: key);
 
