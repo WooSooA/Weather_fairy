@@ -60,7 +60,7 @@ class _ChattingPageState extends State<ChattingPage> {
                  case '대구광역시' :
                    break;
                  case '인천광역시' :
-                 Navigator.of(context).push(MaterialPageRoute(builder: (context) => Incheon()));
+                   Navigator.of(context).push(MaterialPageRoute(builder: (context) => Incheon()));
                  break;
 
                }
