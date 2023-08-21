@@ -36,8 +36,8 @@ class _ViewPageState extends State<ViewPage> {
   Widget build(BuildContext context) {
     return PageView(
       children: <Widget>[
-        WeatherPage(),
         ChattingPage(),
+        WeatherPage(),
       ],
     );
   }
